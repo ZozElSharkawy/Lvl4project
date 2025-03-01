@@ -1,0 +1,14 @@
+The three rules for a strong password are:
+
+1. The password string should....> At least contain 12 characters
+
+
+2. The password string should....> Upper case, lower case & numbers must be present
+
+
+3. The password string should....> At least contain 1 special character
+
+Password examples:
+1. $ch00L_isFuN
+2. D3c!_$tud3nt
+
