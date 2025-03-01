@@ -1,9 +1,7 @@
 #!/bin/bash
 # password_manager.sh
 # Main menu for interacting with the password manager.
-# Provides options for adding a new password or retrieving an existing password.
-# Assumes that the Python scripts (B2_program.py and B3_program.py) handle
-# master key authentication and secure password processing.
+
 
 echo "Welcome to the Password Manager"
 echo "Please choose an option:"
