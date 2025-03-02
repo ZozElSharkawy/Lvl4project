@@ -46,7 +46,7 @@ def main():
     master_key = create_master_key()
     hashed_key = hash_master_key(master_key)
     store_master_key(hashed_key)
-    print("Master key created and stored successfully!")
+    print("Master key created and hashed successfully!")
 
 if __name__ == "__main__":
     main()
